@@ -4,10 +4,9 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
-<ins>  </ins>  
 
 
-
+- 💻 C junior developer
 - 🔭 I’m currently studying computer sciencie on [42 Madrid](https://www.42madrid.com/)
 - 🧠 Interested in data sciencie and app development
 
@@ -15,6 +14,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0martinez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0martinez&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.com/0martinez?tab=repositories)
 
 
 <h3 align="left">Languages and Tools:</h3>

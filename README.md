@@ -1,5 +1,7 @@
+<div align=center>
+<img align="center" src=https://i.giphy.com/dxn6fRlTIShoeBr69N.gif style="object-fit: cover; height: 50px; float: right">
 <h1 align="center">ÓSCAR HERE, WELCOME TO MY GITHUB PROFILE</h1>
-
+</div>
 ***
 <img align="right" src=https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif style="object-fit: cover; height: 610px; width: 200px; float: right">
 
@@ -12,14 +14,13 @@
 ## Github Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0martinez&show_icons=true&count_private=true&hide=contribs&theme=gotham)](https://github.com/0martinez?tab=repositories)
 
-
-<h3 align="left">Languages and Tools:</h3>
-<div align=left">                
+## Languages and Tools:
+<div align=left>                
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />                                                
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://www.interviewmagazine.com/wp-content/uploads/loading_dots.gif" height="50" />                                                                                                                   
+<img style="margin: 10px" src="https://www.interviewmagazine.com/wp-content/uploads/loading_dots.gif" alt="" height="50" />                                                   
 </div>
                                                                                                                 
 

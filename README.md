@@ -1,8 +1,8 @@
 <div align=center>
 <img align="center" src=https://i.giphy.com/dxn6fRlTIShoeBr69N.gif style="object-fit: cover; height: 50px; float: right">
-<h1 align="center">ÓSCAR HERE, WELCOME TO MY GITHUB PROFILE</h1>
+<h1 align="center">🖱ÓSCAR HERE, WELCOME TO MY GITHUB PROFILE🖱</h1>
 </div>
-***
+
 <img align="right" src=https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif style="object-fit: cover; height: 610px; width: 200px; float: right">
 
 ## About me
@@ -13,6 +13,11 @@
 
 ## Github Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0martinez&show_icons=true&count_private=true&hide=contribs&theme=gotham)](https://github.com/0martinez?tab=repositories)
+
+![Visitors](https://komarev.com/ghpvc/?username=0martinez&&style=flat-square)
+
+
+
 
 ## Languages and Tools:
 <div align=left>                

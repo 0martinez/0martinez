@@ -5,6 +5,9 @@
 </a>
 </div>
 
+
+
+
 - 🔭 I’m currently studying computer sciencie on [42 Madrid](https://www.42madrid.com/)
 - 🧠 Interested in data sciencie and app development
 

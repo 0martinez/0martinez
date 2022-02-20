@@ -3,7 +3,7 @@
 <h1 align="center">🖱ÓSCAR HERE, WELCOME TO MY GITHUB PROFILE🖱</h1>
 </div>
 
-<img align="right" src=https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif style="object-fit: cover; height: 610px; width: 200px; float: right">
+<img align="right" src=https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif style="object-fit: cover; height: 680px; width: 200px; float: right">
 
 ## About me
 - 💻 C junior developer

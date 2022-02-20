@@ -1,6 +1,6 @@
 <div align=center>
 <img align="center" src=https://i.giphy.com/dxn6fRlTIShoeBr69N.gif style="object-fit: cover; height: 50px; float: right">
-<h1 align="center">🖱ÓSCAR HERE, WELCOME TO MY GITHUB PROFILE🖱</h1>
+<h1 align="center">ÓSCAR HERE, WELCOME TO MY GITHUB PROFILE!</h1>
 </div>
 
 <img align="right" src=https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif style="object-fit: cover; height: 680px; width: 200px; float: right">

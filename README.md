@@ -1,22 +1,43 @@
-<h1 align="center">HI 👋, ÓSCAR HERE!</h1>
-<div align="center">
-<a href="https://www.linkedin.com/in/%C3%B3scarmart%C3%ADnez/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
+<h1 align="center">ÓSCAR HERE, WELCOME TO MY GITHUB PROFILE</h1>
 
+***
+<img align="right" src=https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif style="object-fit: cover; height: 610px; width: 200px; float: right">
 
+## About me
 - 💻 C junior developer
 - 🔭 I’m currently studying computer sciencie on [42 Madrid](https://www.42madrid.com/)
 - 🧠 Interested in data sciencie and app development
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/omartine)](https://github.com/JaeSeoKim/badge42)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0martinez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0martinez&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.com/0martinez?tab=repositories)
+## Github Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0martinez&show_icons=true&count_private=true&hide=contribs&theme=gotham)](https://github.com/0martinez?tab=repositories)
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">
+<div align=left">                
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />                                                
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://www.interviewmagazine.com/wp-content/uploads/loading_dots.gif" height="50" />                                                                                                                   
+</div>
+                                                                                                                
+
+## Connect with me:                                                                                                                    
+<div align="left">
+<a href="https://github.com/0martinez" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/oscrmr" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/óscarmartínez" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>
+                                                                                                                 
+                                                                                                                 
+                                                                                                                 

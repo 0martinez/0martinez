@@ -1,9 +1,10 @@
 <div align=center>
+<div align=center>
 <img align="center" src=https://i.giphy.com/dxn6fRlTIShoeBr69N.gif style="object-fit: cover; height: 50px; float: right">
 <h1 align="center">ÓSCAR HERE, WELCOME TO MY GITHUB PROFILE!</h1>
 </div>
 
-<img align="right" src=https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif style="object-fit: cover; height: 650px; width: 200px; float: right">
+<!--<img align="right" src=https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif style="object-fit: cover; height: 650px; width: 200px; float: right">-->
 
 ## About me
 - 💻 C junior developer
@@ -20,17 +21,17 @@
 
 
 ## Languages and Tools:
-<div align=left>                
+<div align=center>                
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />                                                
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://www.interviewmagazine.com/wp-content/uploads/loading_dots.gif" alt="" height="50" />                                                   
 </div>
                                                                                                                 
 
 ## Connect with me:                                                                                                                    
-<div align="left">
+<div align="center">
 <a href="https://github.com/0martinez" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>

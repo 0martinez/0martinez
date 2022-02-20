@@ -1,7 +1,10 @@
 <h1 align="center">HI 👋, ÓSCAR HERE!</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<a href="https://linkedin.com/in/alex-jimenezs" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 
-- 🌱 I’m currently learning **C** at **42Madrid**
+- 🔭 I’m currently studying computer sciencie on [42 Madrid](https://www.42madrid.com/)
+- 🧠 Interested in data sciencie and app development
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/omartine)](https://github.com/JaeSeoKim/badge42)
 

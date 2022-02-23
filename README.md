@@ -6,7 +6,7 @@
 <!--<img align="right" src=https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif style="object-fit: cover; height: 650px; width: 200px; float: right">-->
 
 ## About me
-- 💻 C junior developer
+- 💻 C learner
 - 🔭 I’m currently studying computer sciencie on [42 Madrid](https://www.42madrid.com/)
 - 🧠 Interested in data sciencie and app development
 
